@@ -11,7 +11,7 @@ You can always add more later — start with clarity.
 ::: {.column width="65%"}
 # Isla Dammy Shittu
 
-<div class="home-subtitle">Your role / job title</div>
+<div class="home-subtitle">Research Assistant (Bioinformatician)</div>
 
 <!-- PROMPT:
 2–4 sentences is plenty.
