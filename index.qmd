@@ -9,17 +9,20 @@ You can always add more later — start with clarity.
 
 ::: {.columns .home-hero}
 ::: {.column width="65%"}
-# Your Name
+# Isla Dammy Shittu
 
 <div class="home-subtitle">Your role / job title</div>
 
 <!-- PROMPT:
 2–4 sentences is plenty.
 Say who you are, what you work on, and why it matters.
-No need to tell your whole life story 🙂
--->
 Write a short professional bio here. Focus on your research or technical domain,
 the kinds of methods or tools you use, and the impact you care about.
+-->
+I am currently working at the UK Dementia Research Institute working on an interactive 
+visualisation platform, designed specifically for UK DRI scientists and their datsets 
+to encourage collaborations and data exploration.
+
 
 <!-- PROMPT:
 Optional one-liner.
